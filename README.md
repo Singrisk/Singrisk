@@ -1,119 +1,107 @@
-🧑‍💻 Rahul Ranjan Singh
-Computer Science Senior | AI/ML Enthusiast | Intelligent Systems Developer
+<h1 align="center">Hi 👋, I'm Rahul Ranjan Singh</h1>
+<h3 align="center">Computer Science Senior | AI & ML Enthusiast | Intelligent Systems Developer</h3>
 
-Hello! I'm Rahul, a Computer Science senior at Thapar University with strong foundations in DSA, OS, DBMS, and intelligent systems.
-I enjoy building ML/DL models, conversational AI systems, NLP pipelines, and automation tools.
-I also love debugging, code reviewing, and simplifying complex engineering problems.
+---
 
-I create technical content on YouTube (herozCode) and have worked on projects ranging from YOLO-based PCB defect analysis to automated hardware systems.
+## 🚀 About Me  
+- 🎓 Senior at **Thapar University**, pursuing **B.E. in Computer Science**  
+- 🤖 Passionate about **AI, ML, DL, NLP, and Intelligent Systems**  
+- 🧠 Strong in **DSA, OS, DBMS, TOC**  
+- 🛠 Skilled in **C, C++, Python, SQL, Java, HTML, CSS**  
+- 🎤 Completed **NVIDIA-supported NLP + Speech Recognition/Synthesis** program  
+- 🔬 Experience in **YOLO-based PCB feature extraction**, embedded systems & AI projects  
+- 📹 I make technical content on YouTube (**herozCode**)  
+- 🌐 Interests: Debugging, Code Review, Conversational AI, Leadership, French  
 
-🚀 About Me
+---
 
-🎓 B.E. Computer Science, Thapar University
+## 🧰 Tech Stack
 
-📌 Strong in C++, Python, AI, ML, DL, NLP
+### **Languages**
+`C` · `C++` · `Python` · `Java` · `SQL` · `PL/SQL`  
+`HTML` · `CSS`
 
-🛠 Skilled in Java, HTML, CSS, SQL, PL/SQL
+### **AI / ML / DL / NLP**
+`Deep Learning` · `Neural Networks` · `NLP` · `Speech Synthesis`  
+`Computer Vision` · `YOLO` · `Model Optimization`
 
-🤖 Experienced in NLP, Speech Recognition & Synthesis (NVIDIA-supported program)
+### **Other Skills**
+`Data Structures` · `Algorithms` · `DBMS` · `Operating Systems`  
+`Arduino Development` · `Mobile App Development`
 
-🔍 Passion: Intelligent Systems, End-to-End AI, Conversational Agents
+---
 
-📚 A top scorer in Probability & Statistics, TOC, DBMS
+## 🧪 Projects & Research
 
-🧠 Love programming, debugging, and competitive problem solving
+### 🔹 **YOLO-based PCB Feature Extraction**
+Advanced research on PCB defect detection and feature extraction using YOLO models.
 
-🧩 Enjoy chess, cricket, leadership, debate, and learning French
+### 🔹 **Non-Contact IOP Measurement Device**
+Portable device for measuring intraocular pressure using non-contact sensor technology.
 
-🧠 Technical Skillset
-Core Languages
+### 🔹 **Buggy — Automated Automobile**
+Built an autonomous small-scale automobile using sensors and embedded systems.
 
-C • C++ • Python • Java • SQL • HTML/CSS
+### 🔹 **Mangonel Siege Engine Prototype**
+Designed and built a functional mechanical siege weapon prototype.
 
-AI / ML / DL / NLP
+### 🔹 **Handwritten Text Detection**
+Model for recognizing handwritten text using ML techniques.
 
-Experienced with Machine Learning, Deep Learning, Neural Networks, NLP
+### 🔹 **Fire Alarm System**
+Automated fire detection and alarm system using sensors and embedded logic.
 
-Hands-on with NVIDIA NLP & Speech Recognition/Synthesis
+---
 
-Active on Kaggle for ML/DL challenges
+## 🎓 Education
 
-Other Skills
+### **Thapar University (2022 – Present)**
+- B.E. in Computer Science  
+- Top performer in **P&S, DBMS, TOC**  
+- CGPA: **7.31**  
+- Completed NVIDIA-supported **NLP & Speech Recognition** program  
+- JEE Percentile: **90.49**
 
-Data Structures & Algorithms
+### **D.A.V. Public School**
+- 91% in *Computer Science* (Senior Secondary)  
+- 94% in *PCM with CS*  
+- Built a functional **Hotel Management System**  
+- French language training  
+- Silver medal in Cricket Tournament  
 
-DBMS (MySQL, Oracle, PL/SQL)
+---
 
-Operating Systems
+## 🏅 Achievements
+- Professional **Leadership Certificate**  
+- Certified in **Arduino DIY**, **Mobile App Development**, **Handwritten Text Detection**, **Fire Alarm System**  
+- Government certificate for excellence in **Hindi Language Quiz**  
+- Active participant in **chess, debates, and team leadership activities**
 
-Web Development
+---
 
-Mobile App Development
+## 🌐 Connect With Me  
 
-Arduino-based embedded systems
+<p align="left">
+<a href="https://www.linkedin.com/in/rahul-ranjan-singh-87aa50280" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:rrs140105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Singrisk" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-🧪 Projects & Research
-🔹 YOLO-based PCB Feature Extraction
+---
 
-Advanced feature extraction using YOLO variants for PCB defect analysis.
+## 📊 GitHub Stats
 
-🔹 Non-Contact IOP Measurement Device
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Singrisk&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singrisk&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-Designed & deployed a portable device for intraocular pressure measurement.
+---
 
-🔹 Buggy — Automated Automobile
-
-Built an autonomous mechanical system using sensors and control logic.
-
-🔹 Mangonel Siege Engine Prototype
-
-Designed, simulated, and constructed a mechanical launcher.
-
-🔹 Handwritten Text Detection
-
-Developed an ML-based handwritten text recognition system.
-
-🔹 Fire Alarm System
-
-Designed & implemented an automated fire alarm safety system.
-
-🎓 Education
-B.E. in Computer Science — Thapar University (2022–Present)
-
-Top performance in DBMS, P&S, TOC
-
-CGPA: 7.31
-
-Specialized course in NLP + Speech Recognition (NVIDIA)
-
-JEE Score: 90.49 percentile
-
-D.A.V. Public School (High School)
-
-91% in Computer Science
-
-94% in PCM with CS
-
-Built a Hotel Management System with DB integration
-
-🏅 Achievements
-
-Professional Certification in Leadership
-
-Certified in DIY Arduino, Mobile App Development, Text Detection, Fire Alarm Systems
-
-Silver Medal in cricket tournament
-
-Government certificate for performance in Hindi language quiz
-
-French language training
-
-Active technical content creator on YouTube (herozCode)
-
-🌐 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/rahul-ranjan-singh-87aa50280
-
-💻 GitHub: https://github.com/Singrisk
-
-📧 Email: rrs140105@gmail.com
+### ⭐ If you like my work, feel free to star my repositories!
