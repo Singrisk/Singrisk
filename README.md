@@ -7,7 +7,8 @@
 - 🎓 Senior at **Thapar University**, pursuing **B.E. in Computer Science**  
 - 🤖 Passionate about **AI, ML, DL, NLP, and Intelligent Systems**  
 - 🧠 Strong in **DSA, OS, DBMS, TOC**  
-- 🛠 Skilled in **C, C++, Python, SQL, Java, HTML, CSS**  
+- 🛠 Skilled in **C, C++, Python, SQL, Java, HTML, CSS**
+- **Gate 2026 Qualified in Data Science and AI**
 - 🎤 Completed **NVIDIA-supported NLP + Speech Recognition/Synthesis** program  
 - 🔬 Experience in **YOLO-based PCB feature extraction**, embedded systems & AI projects  
 - 📹 I make technical content on YouTube (**herozCode**)  
@@ -73,7 +74,8 @@ Automated fire detection and alarm system using sensors and embedded logic.
 
 ## 🏅 Achievements
 - Professional **Leadership Certificate**  
-- Certified in **Arduino DIY**, **Mobile App Development**, **Handwritten Text Detection**, **Fire Alarm System**  
+- Certified in **Arduino DIY**, **Mobile App Development**, **Handwritten Text Detection**, **Fire Alarm System**
+- **NDA and AFCAT** written test qualified. 
 - Government certificate for excellence in **Hindi Language Quiz**  
 - Active participant in **chess, debates, and team leadership activities**
 
